@@ -17,5 +17,5 @@
 ###### 3.Oreoluwa
 
 ## Link to live project and project design
-###### [Design Link](https://murytarlah.github.io/mealFIndr/index.html)
+###### [Design Link](https://www.figma.com/file/8hvYhSxnQ3IlDEBhxKQgSH/Meal-Finder?node-id=0%3A1)
 ###### [Live preview link](https://murytarlah.github.io/mealFIndr/index.html)
