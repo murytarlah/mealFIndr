@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+*{
+    color: white;
+    font-family: Quicksand;
+}
+
+:root{
+    --dblack: #272525;
+    --black: #2e2e2e;
+    --wine: #901818;
+    --yellow:#F8D317;
+}
+
+html{
+    height: 100%;
+}
+body{
+    position: relative;
+    background: radial-gradient(65.62% 80.62% at 37.33% 10.63%, rgba(46, 46, 46, 0) 0%, var(--black) 100%), url('../images/bg-1.png') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.project_info{
+    margin: 80px 0;
+}
+
+.input-group-text{
+    background: var(--wine);
+    border: var(--wine);
+}
+
+.random_meal{
+    background: var(--wine);
+    color: white;
+    font-weight: 600;
+}
+.random_meal:hover,.random_meal *:hover{
+    color: var(--yellow);
+}
+
+.random_meal i{
+    margin: 0 0 0 15px;
+}
+
+.search-title{
+    font-weight: 500;
+    margin: 40px 0;
+}
+
+footer{
+    position:absolute;
+    bottom:0;
+    background: var(--dblack);
+    width: 100%;
+    padding: 10px;
+}
+
+.copyright{
+    margin: 16px 0px ! important;
+    color:white;
+}
+
+.copyright span{
+    color: var(--wine);
+}
+
+.instructions{
+    max-height: 100px;
+    overflow: hidden;
+}
+
+.meals *{
+    background-color: var(--black);
+}
+
+.card-title{
+    color: white ! important;
+}
+
+.meals *{
+    color: black;
+}
+
+.meals > div{
+    margin: 25px 0;
+    padding: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.meal_detail{
+    color: var(--yellow);
+    font-weight: 600;
+}
+
+.meal_detail:hover{
+color: var(--wine);
+}
+
+.randomGeneratedMeal{
+    margin: 90px 0;
+    padding-bottom: 90px;
+    background: -webkit-linear-gradient(90deg, rgba(0,0,0, .07), rgba(0,0,0, .0));
+}
