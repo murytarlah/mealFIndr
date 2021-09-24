@@ -3,7 +3,7 @@
 
 ## Tools
 1.vscode
-2.themealdb.com api
+2.[themealdb.com api](themealdb.com)
 3.Developer Tools
 
 
@@ -15,3 +15,6 @@
 1.Jamiu
 2.Vincent
 
+## Link to live project and project design
+**[Design Link](https://murytarlah.github.io/mealFIndr/index.html)
+**[Live preview link](https://murytarlah.github.io/mealFIndr/index.html)
