@@ -14,6 +14,7 @@
 ## Contributors
 ###### 1.Jamiu
 ###### 2.Vincent
+###### 3.Oreoluwa
 
 ## Link to live project and project design
 ###### [Design Link](https://murytarlah.github.io/mealFIndr/index.html)
